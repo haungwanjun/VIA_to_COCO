@@ -1,0 +1,2 @@
+# VIA_to_COCO
+一个把VIA标注软件导出的json格式文件转换成COCO标注格式的脚本，一个检验并显示coco格式的bbox和mask的程序
